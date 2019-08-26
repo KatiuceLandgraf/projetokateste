@@ -10,8 +10,6 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+       teste de envio sozinha versionamento git, para verificar se consegui entender.
     </body>
 </html>
